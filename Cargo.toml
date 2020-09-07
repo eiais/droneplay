@@ -1,0 +1,15 @@
+[package]
+name = "droneplay"
+version = "0.0.1"
+authors = ["Kathryn Spiers <kathryn@spiers.me>"]
+description = "collection of drone kink CLI tools"
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/eiais/droneplay"
+license = "MIT"
+keywords = ["drone", "bsdm", "security"]
+categories = ["command-line-utilities"]
+
+
+[dependencies]
+structopt = "0.3.17"
