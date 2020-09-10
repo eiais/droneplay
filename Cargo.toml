@@ -12,4 +12,6 @@ categories = ["command-line-utilities"]
 
 
 [dependencies]
+nix = "0.18.0"
 structopt = "0.3.17"
+users = "0.10.0"
